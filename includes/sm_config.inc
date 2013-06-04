@@ -7,7 +7,7 @@
 /**
 ** This are files which helps to access database for connection purpose
 **/
-$as__sm['DB_HOST'] = 'localhost';
+$as__sm['DB_HOST'] = '10.232.55.98';
 $as__sm['DB_SERVERNAME'] = 'root';
 $as__sm['DB_PASSWORD'] = 'changeme';
 $as__sm['DB_NAME'] = 'campsite';
